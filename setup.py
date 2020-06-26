@@ -24,7 +24,7 @@ requirements = [
     'pbcore >= 0.9.4',
     'scipy >= 0.12.0',
     'biopython >= 1.6.1',
-    'matplotlib >= 1.5.0'
+    'matplotlib >=1.5.0<=3.2.1'
 ]
 
 setup_requirements = [
